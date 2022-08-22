@@ -1,0 +1,20 @@
+{
+  "name": "test-react-native-cypress",
+  "version": "1.0.0",
+  "description": "uma aplicação React native sendo testada com o cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan5ds/Test-React-Native-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan5ds/Test-React-Native-Cypress/issues"
+  },
+  "homepage": "https://github.com/Ryan5ds/Test-React-Native-Cypress#readme"
+}
