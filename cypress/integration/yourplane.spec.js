@@ -4,7 +4,7 @@ describe('Suite de teste Your Plan', () => {
 
     const email = Cypress._.repeat('a@a.com')
     before(() => {
-        cy.visit("/")
+        cy.visit("/")//
         cy.viewport('samsung-note9')
     })
 
